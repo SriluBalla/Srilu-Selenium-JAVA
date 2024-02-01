@@ -22,18 +22,17 @@
         ii.	Locate the lib and add all the JAR files.
 6.	Set Browser driver - 
     a.	Add the browser drivers to folder – src/_macDrivers or src/_winDrivers
-    b.	Update the file helpers/browser path for chrome. 
-   <img width="849" alt="Screenshots" src="https://github.com/SriluBalla/Srilu-Selenium-JAVA/assets/106475342/efd729fe-d4be-4476-aeb4-5385a7da887e">
+    b.	Update the file helpers/browser path for chrome.
+<img width="567" alt="path" src="https://github.com/SriluBalla/Srilu-Selenium-JAVA/assets/106475342/fdec8841-cc5e-4957-9696-a5ec82fe6abc">
 
 ________________________________________________________________
 **BEFORE you RUN the TEST**
 1.	Go to file helpers/browser and update the default browser
-   <img width="531" alt="selectBrowser" src="https://github.com/SriluBalla/Srilu-Selenium-JAVA/assets/106475342/ae8ac98e-8aba-4409-abab-7811bdfe54ea">
+<img width="531" alt="selectBrowser" src="https://github.com/SriluBalla/Srilu-Selenium-JAVA/assets/106475342/ae8ac98e-8aba-4409-abab-7811bdfe54ea">     
 
 3.	Go to file helpers/constants and update the update the location of the filePath.
     a.	The screenshots folder will add a folder for the current date and log the images in them. Images will be overwritten.
-<img width="567" alt="path" src="https://github.com/SriluBalla/Srilu-Selenium-JAVA/assets/106475342/fdec8841-cc5e-4957-9696-a5ec82fe6abc">
-
+<img width="849" alt="Screenshots" src="https://github.com/SriluBalla/Srilu-Selenium-JAVA/assets/106475342/efd729fe-d4be-4476-aeb4-5385a7da887e">
    
 **gSearch**
 1.	Selected browser open and go to Google.com and verifies the title
