@@ -2,11 +2,17 @@ package helpers;
 
 public class constants {
 
+    // Search Key word
+    public static final String search_keyword = "Srilu Balla";
+    public static final String search_partialKeyword = "Srilu";
+
+    public static final int [] number = {0,1,1,2,3,4,5,6,7,9,9,0};
+
     //  // Page Titles
-    public static final String title_Register = "Create a new account - Ultimate QA";
-    public static final String title_Login = "Create a new account - Ultimate QA";
     public static final String title_google = "Google";
 
+    // FILE PATHS
+    public static final String screenshots = "/Users/sriluballa/Documents/AUTOMATION/Screenshots";
 
     // Register data
     public static final String email = "sriRam@seeta.com";
