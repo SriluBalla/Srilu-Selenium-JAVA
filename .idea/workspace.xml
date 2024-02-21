@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b120bb12-109e-4385-8377-4c95e7640fb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_macDrivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/arrayHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/screenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/gSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/useArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Srilu-Selenium-JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Srilu-Selenium-JAVA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/dbQueries.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/browserHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/browserStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/browserStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/dbHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/dbConnect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/envHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/environment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/folderHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/folderAndFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/screenshotHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/steps/loginStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/steps/homeStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/steps/registerStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/arrayHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/arrayHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/useArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/useArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +62,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.gSearch">
+  <component name="RunManager" selected="Application.useArrays">
     <configuration name="gSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tests.gSearch" />
       <module name="Srilu-Selenium-JAVA" />
@@ -106,8 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.gSearch" />
         <item itemvalue="Application.useArrays" />
+        <item itemvalue="Application.gSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -124,5 +109,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/helpers/arrayHelper.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
