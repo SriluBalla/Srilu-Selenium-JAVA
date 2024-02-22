@@ -11,9 +11,6 @@ public class constants {
     //  // Page Titles
     public static final String title_google = "Google";
 
-    // FILE PATHS
-    public static final String screenshots = "/Users/sriluballa/Documents/AUTOMATION/Screenshots";
-
     // Register data
     public static final String email = "sriRam@seeta.com";
     public static final String pass = "janaki";

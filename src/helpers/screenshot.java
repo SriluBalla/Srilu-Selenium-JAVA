@@ -14,7 +14,7 @@ public class screenshot {
         return d.toString().substring(0, 10);
     }
 
-    public static String fileLocation = constants.screenshots + "/" + date();
+    public static String fileLocation =  "src/testResults/" + date();
 
     public static void page(String fileName) throws AWTException, IOException {
         Robot robot = new Robot();
